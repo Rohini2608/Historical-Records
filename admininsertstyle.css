@@ -1,0 +1,39 @@
+body{
+	background: #eee;
+}
+.header{
+	
+	background: white;
+	text-align: center;
+	
+}
+.head{
+	text-align: center;
+	background: white;
+	
+	
+
+}
+#btn{
+	color: #fff;
+	background: #337ab7;
+	padding: 5px;
+	margin-left: 0% 
+
+}
+
+#bttn{
+	vertical-align: text-top;
+	color: #fff;
+	background: #337ab7;
+	padding: 5px;
+	margin-left: 60%;
+	margin-top: -8%; 
+}
+#btnn{
+	color: #fff;
+	background: #337ab7;
+	padding: 5px;
+	margin-left: 0% 
+
+}
